@@ -1,4 +1,4 @@
-# deepfake_detection
+# DETECT X - A TOOL FOR DEEPFAKE DETECTION
 
 
 Detect the video is fake or not using InceptionResNetV2.
