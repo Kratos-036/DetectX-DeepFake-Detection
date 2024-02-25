@@ -1,5 +1,6 @@
 # DETECT X - A TOOL FOR DEEPFAKE DETECTION
 
+- This is a MAJOR GROUP PROJECT for Engineering SEM 6
 
 Detect the video is fake or not using InceptionResNetV2.
 
